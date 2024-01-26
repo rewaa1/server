@@ -5,7 +5,7 @@ const {
     getworkout,
     deleteWorkout,
     updateWorkout
-} = require('../controllers/workoutController')
+} = require('../cotroller/workoutController')
 const reqAuth = require('../middleware/reqAuth')
 
 
